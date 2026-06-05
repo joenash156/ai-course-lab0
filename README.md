@@ -7,4 +7,4 @@
 
 ## Repository Description
 
-[Briefly describe what this repository will contain.]
+This repository has my files necessary for submission
